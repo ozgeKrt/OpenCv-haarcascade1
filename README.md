@@ -1,5 +1,5 @@
 # OpenCv-haarcascade1
-Ön yüz ve göz algılama
+Kayıtlı bir video veya bilgisayarın anlık kendi kamerası(forCamera.py) ile xml dosyalarına göre ön yüz ve göz algılama işlemi yapılmaktadır. Hangi algılama yapılmak isteniyorsa ilgili xml dosyası eklenmelidir.
 
 
 ##Contributors
